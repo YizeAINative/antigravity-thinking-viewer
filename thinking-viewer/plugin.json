@@ -1,0 +1,9 @@
+{
+  "name": "thinking-viewer",
+  "displayName": "思考过程",
+  "description": "在每次对话回答中直接用简体中文展示模型的实时思考过程与关键决策，不再默认折叠或黑盒化。",
+  "logo": "assets/logo.svg",
+  "version": "2.0.0",
+  "author": "YizeAINative",
+  "repository": "https://github.com/YizeAINative/antigravity-thinking-viewer"
+}
